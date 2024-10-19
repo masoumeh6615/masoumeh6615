@@ -1,16 +1,22 @@
-## Hi there 👋
+this is **bold**.
 
-<!--
-**masoumeh6615/masoumeh6615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+this is *Italic*.
 
-Here are some ideas to get you started:
+```pyton
+a=0
+print(0)
+```
+- pyton
+- deeplearning
+  - RNN
+  - CNN
+- NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+
+> This is Test.
+> > Tis is another
+
+# Goooooooool
+![Goool](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBSFY8oXArfK19CGouasPTsija8EeVvITt3g&s)
